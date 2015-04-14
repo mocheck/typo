@@ -37,8 +37,7 @@
             $('#table').stable({
 
                 ajax_p:"ajax",
-                multisort: true,
-                headers: true
+                multisort: true
             });
 
 //            alert(in_f.$);
