@@ -50,7 +50,7 @@
             th.addClass('logo-asc');
             alert(settings.ajax_p);
             alert(settings.multisort);
-            
+
         }
 
         init();
